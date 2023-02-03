@@ -50,3 +50,5 @@ level 2
 > Картинка заката
 
 ![закат](закат.jpg)
+
+[ссылка](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%B0%D1%82)
