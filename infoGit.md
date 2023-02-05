@@ -59,3 +59,5 @@ level 2
 ## основные команды GIT 2-го семинара
 
 >git branch **<branch_name>** - создать новую ветку с именем branch_name
+
+> **git branch -d <branch_name>** - удалить ветку с именем branch_name
